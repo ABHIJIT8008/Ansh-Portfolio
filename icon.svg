@@ -1,0 +1,8 @@
+<svg class="h-10 w-auto" viewBox="0 0 120 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15 90 L45 10 L75 90" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <path d="M38 45 L58 55 L38 65 Z" fill="#6366f1"/>
+    
+    <path d="M80 10 H115" stroke="white" stroke-width="12" stroke-linecap="round"/>
+    <path d="M97.5 10 V90" stroke="white" stroke-width="12" stroke-linecap="round"/>
+</svg>
